@@ -6,17 +6,15 @@ The TodoList API is a .NET Core Web API that provides a CRUD (Create, Read, Upda
 
 This API uses in-memory storage, making it lightweight and easy to set up without needing a database.
 
+## Technologies Used
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 ## Features
 - Create a new Todo item
 - Retrieve all Todo items
 - Retrieve a single Todo item by ID
 - Update an existing Todo item
 - Delete a Todo item
-
-
-## Requirements
-.NET Core SDK 3.1 or later
-
 
 ## Setup
 Clone the repository:
@@ -34,8 +32,4 @@ Run the application:
 
 The API will be available at:
 
- https://localhost:7123
- 
- or 
- 
- http://localhost:5123
+ https://localhost:7123   or   http://localhost:5123
